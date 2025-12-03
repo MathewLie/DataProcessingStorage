@@ -10,14 +10,14 @@
 ## Runtime Results
 Once the file is up and running, the terminal will show these lines in order:
 
-null
-Error
-null
-6
-Error
-Error
-null
-null
+- null
+- Error
+- null
+- 6
+- Error
+- Error
+- null
+- null
 
 These lines mimic the Figure 2 tests shown in the assignment documentation. 
 
